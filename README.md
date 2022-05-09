@@ -1,2 +1,6 @@
 # tailwind-play
-Some frontend stuff with Tailwind Play 
+Checkout some frontend stuff made with Tailwind Play 
+
+[https://www.vr.fi/ copy attempt](https://play.tailwindcss.com/pIU4gfigz7?size=1470x1340)
+
+[Responsive Google style email navigation](https://play.tailwindcss.com/6x4rKTKh0F?size=786x611)
